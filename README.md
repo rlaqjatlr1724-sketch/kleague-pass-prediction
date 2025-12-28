@@ -2,9 +2,9 @@
 
 K리그 경기 데이터를 활용한 패스 도착 위치 예측 AI 모델
 
-> 🏆 2024 K-League Data Challenge  
+> 🏆 2025 K-League Data Challenge  
 > **Final Score: 14.5m** (Euclidean Distance)  
-> **기간**: 3주  
+> **기간**: (2025/12/07 ~ 2025/12/29) 3주  
 > **1등과의 격차**: 2m (1등 12.5m)
 
 ---
